@@ -1,2 +1,0 @@
-# tst
-teste de uso
